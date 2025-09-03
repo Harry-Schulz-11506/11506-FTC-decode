@@ -1650,3 +1650,4 @@ Changes include:
  * The hardware loop has been updated for better performance.
 # 11506-FTC-decode
 # 11506-FTC-decode
+# 11506-FTC-decode
